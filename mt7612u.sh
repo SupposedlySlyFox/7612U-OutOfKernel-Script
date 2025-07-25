@@ -1,3 +1,5 @@
+#!/bin/bash
+
 main()
 {
     echo "
@@ -68,3 +70,5 @@ uninstall()
 
     sudo reboot    
 }
+
+main
